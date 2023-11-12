@@ -1,0 +1,16 @@
+C:\Users\ElRomario\source\repos\LINQHW13\LINQHW13\bin\Debug\net5.0\LINQHW13.exe
+C:\Users\ElRomario\source\repos\LINQHW13\LINQHW13\bin\Debug\net5.0\LINQHW13.deps.json
+C:\Users\ElRomario\source\repos\LINQHW13\LINQHW13\bin\Debug\net5.0\LINQHW13.runtimeconfig.json
+C:\Users\ElRomario\source\repos\LINQHW13\LINQHW13\bin\Debug\net5.0\LINQHW13.runtimeconfig.dev.json
+C:\Users\ElRomario\source\repos\LINQHW13\LINQHW13\bin\Debug\net5.0\LINQHW13.dll
+C:\Users\ElRomario\source\repos\LINQHW13\LINQHW13\bin\Debug\net5.0\ref\LINQHW13.dll
+C:\Users\ElRomario\source\repos\LINQHW13\LINQHW13\bin\Debug\net5.0\LINQHW13.pdb
+C:\Users\ElRomario\source\repos\LINQHW13\LINQHW13\obj\Debug\net5.0\LINQHW13.csproj.AssemblyReference.cache
+C:\Users\ElRomario\source\repos\LINQHW13\LINQHW13\obj\Debug\net5.0\LINQHW13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ElRomario\source\repos\LINQHW13\LINQHW13\obj\Debug\net5.0\LINQHW13.AssemblyInfoInputs.cache
+C:\Users\ElRomario\source\repos\LINQHW13\LINQHW13\obj\Debug\net5.0\LINQHW13.AssemblyInfo.cs
+C:\Users\ElRomario\source\repos\LINQHW13\LINQHW13\obj\Debug\net5.0\LINQHW13.csproj.CoreCompileInputs.cache
+C:\Users\ElRomario\source\repos\LINQHW13\LINQHW13\obj\Debug\net5.0\LINQHW13.dll
+C:\Users\ElRomario\source\repos\LINQHW13\LINQHW13\obj\Debug\net5.0\ref\LINQHW13.dll
+C:\Users\ElRomario\source\repos\LINQHW13\LINQHW13\obj\Debug\net5.0\LINQHW13.pdb
+C:\Users\ElRomario\source\repos\LINQHW13\LINQHW13\obj\Debug\net5.0\LINQHW13.genruntimeconfig.cache
